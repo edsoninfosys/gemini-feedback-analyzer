@@ -1,4 +1,4 @@
-# Gemini API Study 🚀
+## Gemini API Study 🚀
 
 An automated system to analyze customer feedback using Google's Gemini 2.0 Flash model.
 
